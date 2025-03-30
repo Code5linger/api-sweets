@@ -9,7 +9,7 @@
       "currency": "BDT",
       "inStock": true,
       "category": "Middle Eastern",
-      "image": "baklava.jpg",
+      "image": "https://imgur.com/O8bUiKt",
       "rating": 4.8
     },
     {
@@ -21,7 +21,7 @@
       "currency": "BDT",
       "inStock": true,
       "category": "Fusion",
-      "image": "gulab-dista.jpg",
+      "image": "https://imgur.com/NDQevqO",
       "rating": 4.5
     },
     {
@@ -33,7 +33,7 @@
       "currency": "BDT",
       "inStock": true,
       "category": "Bengali Sweets",
-      "image": "irani-chomchom.jpg",
+      "image": "https://imgur.com/Aq5EifX",
       "rating": 4.7
     },
     {
@@ -45,7 +45,7 @@
       "currency": "BDT",
       "inStock": true,
       "category": "Traditional",
-      "image": "jordar-goti.jpg",
+      "image": "https://imgur.com/YKgPLix",
       "rating": 4.3
     },
     {
@@ -57,7 +57,7 @@
       "currency": "BDT",
       "inStock": true,
       "category": "Bengali Sweets",
-      "image": "kalojam.jpg",
+      "image": "https://imgur.com/b8mN3XF",
       "rating": 4.6
     },
     {
@@ -69,7 +69,7 @@
       "currency": "BDT",
       "inStock": true,
       "category": "Middle Eastern",
-      "image": "kunafah.jpg",
+      "image": "https://imgur.com/3oUzgF4",
       "rating": 4.9
     },
     {
@@ -81,7 +81,7 @@
       "currency": "BDT",
       "inStock": true,
       "category": "Bengali Sweets",
-      "image": "lal-mohon.jpg",
+      "image": "https://imgur.com/1l7cN22",
       "rating": 4.4
     },
     {
@@ -93,7 +93,7 @@
       "currency": "BDT",
       "inStock": true,
       "category": "Fusion",
-      "image": "malai-roll.jpg",
+      "image": "https://imgur.com/SfrqnJb",
       "rating": 4.7
     },
     {
@@ -105,7 +105,7 @@
       "currency": "BDT",
       "inStock": true,
       "category": "Savory",
-      "image": "marine-sandwich.jpg",
+      "image": "https://imgur.com/zeiWv3t",
       "rating": 4.2
     },
     {
@@ -117,7 +117,7 @@
       "currency": "BDT",
       "inStock": true,
       "category": "Bengali Sweets",
-      "image": "misti-doi.jpg",
+      "image": "https://imgur.com/SOIHXvf",
       "rating": 4.8
     },
     {
@@ -129,7 +129,7 @@
       "currency": "BDT",
       "inStock": true,
       "category": "Middle Eastern",
-      "image": "pistachio-roll.jpg",
+      "image": "https://imgur.com/oAPcKuZ",
       "rating": 4.5
     },
     {
@@ -141,7 +141,7 @@
       "currency": "BDT",
       "inStock": true,
       "category": "Bengali Sweets",
-      "image": "shada-chomchom.jpg",
+      "image": "https://imgur.com/axBLMMP",
       "rating": 4.6
     },
     {
@@ -153,7 +153,7 @@
       "currency": "BDT",
       "inStock": true,
       "category": "Bengali Sweets",
-      "image": "shorifa-shondesh.jpg",
+      "image": "https://imgur.com/8hoKGuK",
       "rating": 4.7
     },
     {
@@ -165,7 +165,7 @@
       "currency": "BDT",
       "inStock": true,
       "category": "Bengali Sweets",
-      "image": "special-chomchom.jpg",
+      "image": "https://imgur.com/IThrWTf",
       "rating": 4.9
     },
     {
@@ -177,7 +177,7 @@
       "currency": "BDT",
       "inStock": true,
       "category": "Fusion",
-      "image": "watermelon-shondesh.jpg",
+      "image": "https://imgur.com/B3xQgKX",
       "rating": 4.4
     }
   ],
