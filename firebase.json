@@ -1,0 +1,22 @@
+{
+  "hosting": {
+    "public": "public",
+    "headers": [
+      {
+        "source": "/api/sweets.json",
+        "headers": [
+          {
+            "key": "Access-Control-Allow-Origin",
+            "value": "*"
+          }
+        ]
+      }
+    ],
+    "rewrites": [
+      {
+        "source": "/api/sweets",
+        "destination": "/api/sweets.json"
+      }
+    ]
+  }
+}
