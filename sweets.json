@@ -1,0 +1,189 @@
+{
+  "sweets": [
+    {
+      "id": 1,
+      "name": "Baklava",
+      "shortDescription": "Flaky pastry with nuts and honey.",
+      "description": "Delight in the exquisite layers of flaky pastry and sweet, nutty richness with our Baklava, a timeless Middle Eastern dessert. This indulgent treat features thin layers of phyllo dough filled with a blend of finely chopped nuts, sweetened with aromatic honey or sugar syrup, and infused with hints of cinnamon and citrus.",
+      "price": 80.0,
+      "currency": "BDT",
+      "inStock": true,
+      "category": "Middle Eastern",
+      "image": "baklava.jpg",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "name": "Gulab Dista",
+      "shortDescription": "Rose-infused sweet delicacy.",
+      "description": "Discover the enchanting flavors of Gulab Dista, a unique and delectable dessert that combines the richness of traditional sweets with a floral twist. This delicacy features layers of soft, melt-in-your-mouth textures infused with the essence of rose, creating a dessert that is as aromatic as it is delicious.",
+      "price": 70.0,
+      "currency": "BDT",
+      "inStock": true,
+      "category": "Fusion",
+      "image": "gulab-dista.jpg",
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "name": "Irani Chomchom",
+      "shortDescription": "Saffron-infused Bengali sweet.",
+      "description": "Indulge in the luxurious taste of Irani Chomchom, a rich and decadent variation of the traditional Bengali sweet. With its golden hue and velvety texture, this delicacy is infused with the goodness of saffron and cardamom, offering an exotic flavor that delights the senses.",
+      "price": 390.0,
+      "currency": "BDT",
+      "inStock": true,
+      "category": "Bengali Sweets",
+      "image": "irani-chomchom.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "name": "Jordar Goti",
+      "shortDescription": "Crunchy sweet with authentic flavors.",
+      "description": "Jordar Goti is a delightful blend of traditional flavors and premium ingredients, designed to tantalize your taste buds with every bite. This unique product brings the essence of authentic taste, combining the perfect balance of sweetness, tanginess, and a satisfying crunch.",
+      "price": 500.0,
+      "currency": "BDT",
+      "inStock": true,
+      "category": "Traditional",
+      "image": "jordar-goti.jpg",
+      "rating": 4.3
+    },
+    {
+      "id": 5,
+      "name": "Kalojam",
+      "shortDescription": "Deep-fried dough balls in syrup.",
+      "description": "Satisfy your sweet cravings with the irresistible Kalojam, a rich and indulgent Bengali dessert known for its unique flavor and melt-in-the-mouth texture. These deep-fried, soft dough balls are soaked in sugar syrup, allowing them to absorb the sweetness while maintaining their spongy, slightly crispy exterior.",
+      "price": 260.0,
+      "currency": "BDT",
+      "inStock": true,
+      "category": "Bengali Sweets",
+      "image": "kalojam.jpg",
+      "rating": 4.6
+    },
+    {
+      "id": 6,
+      "name": "Kunafah",
+      "shortDescription": "Crispy Middle Eastern dessert.",
+      "description": "Experience the exquisite flavors of the Middle East with Kunafah, a rich and indulgent dessert that combines a crispy, golden crust with a luscious, creamy filling.",
+      "price": 70.0,
+      "currency": "BDT",
+      "inStock": true,
+      "category": "Middle Eastern",
+      "image": "kunafah.jpg",
+      "rating": 4.9
+    },
+    {
+      "id": 7,
+      "name": "Lal Mohon",
+      "shortDescription": "Spongy red dumplings in syrup.",
+      "description": "Indulge in the rich and irresistible sweetness of Lal Mohon, a traditional Bengali dessert that promises to delight your taste buds. These soft, spongy, and deep red dumplings are made from a mixture of khoya and flour, fried to golden perfection, and soaked in fragrant sugar syrup.",
+      "price": 260.0,
+      "currency": "BDT",
+      "inStock": true,
+      "category": "Bengali Sweets",
+      "image": "lal-mohon.jpg",
+      "rating": 4.4
+    },
+    {
+      "id": 8,
+      "name": "Malai Roll",
+      "shortDescription": "Creamy rolls with cardamom.",
+      "description": "Indulge in the creamy richness of Malai Roll, a delightful fusion of soft, spongy rolls soaked in luscious malai (sweetened cream). Perfectly balanced with a hint of cardamom, this dessert melts in your mouth, leaving a lingering taste of sweetness and satisfaction.",
+      "price": 420.0,
+      "currency": "BDT",
+      "inStock": true,
+      "category": "Fusion",
+      "image": "malai-roll.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 9,
+      "name": "Marine Sandwich",
+      "shortDescription": "Seafood sandwich with zesty sauce.",
+      "description": "Dive into the ocean of flavor with our Marine Sandwich! Perfectly crafted for seafood lovers, this sandwich brings the best of the sea to your plate. Featuring freshly caught fish fillets, succulent prawns, and a zesty tartar sauce, all nestled in a warm, toasted bun.",
+      "price": 70.0,
+      "currency": "BDT",
+      "inStock": true,
+      "category": "Savory",
+      "image": "marine-sandwich.jpg",
+      "rating": 4.2
+    },
+    {
+      "id": 10,
+      "name": "Misti Doi",
+      "shortDescription": "Creamy caramelized sweet yogurt.",
+      "description": "Misti Doi, a traditional Bengali delicacy, is a creamy and luscious sweet yogurt that delights your taste buds with its rich flavor and velvety texture. Made with caramelized sugar and fresh milk, this dessert is a perfect blend of sweetness and indulgence.",
+      "price": 330.0,
+      "currency": "BDT",
+      "inStock": true,
+      "category": "Bengali Sweets",
+      "image": "misti-doi.jpg",
+      "rating": 4.8
+    },
+    {
+      "id": 11,
+      "name": "Pistachio Roll",
+      "shortDescription": "Nutty rolls with pistachio filling.",
+      "description": "Enjoy the delicate crunch of our Pistachio Roll, where layers of flaky pastry embrace a rich pistachio filling. Lightly sweetened and garnished with crushed nuts, this dessert is a celebration of texture and flavor.",
+      "price": 90.0,
+      "currency": "BDT",
+      "inStock": true,
+      "category": "Middle Eastern",
+      "image": "pistachio-roll.jpg",
+      "rating": 4.5
+    },
+    {
+      "id": 12,
+      "name": "Shada Chomchom",
+      "shortDescription": "Soft, spongy Bengali sweet.",
+      "description": "Delight in the simplicity of Shada Chomchom, a beloved Bengali sweet known for its soft, spongy texture and gentle sweetness. Handcrafted from freshly curdled milk, this traditional dessert is a symbol of purity and celebration.",
+      "price": 380.0,
+      "currency": "BDT",
+      "inStock": true,
+      "category": "Bengali Sweets",
+      "image": "shada-chomchom.jpg",
+      "rating": 4.6
+    },
+    {
+      "id": 13,
+      "name": "Shorifa Shondesh",
+      "shortDescription": "Custard apple-infused sweet.",
+      "description": "Indulge in the rich heritage of Bengal with Shorifa Shondesh, a delectable traditional sweet that blends the creamy goodness of fresh cottage cheese (chhena) with the delightful essence of custard apple (shorifa).",
+      "price": 400.0,
+      "currency": "BDT",
+      "inStock": true,
+      "category": "Bengali Sweets",
+      "image": "shorifa-shondesh.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 14,
+      "name": "Special Chomchom",
+      "shortDescription": "Premium saffron-infused chomchom.",
+      "description": "Treat yourself to the irresistible charm of Special Chomchom, a premium Bengali sweet that elevates tradition with a touch of indulgence. Soft, spongy, and infused with the rich flavors of saffron and cardamom, this delightful dessert is crafted to perfection.",
+      "price": 380.0,
+      "currency": "BDT",
+      "inStock": true,
+      "category": "Bengali Sweets",
+      "image": "special-chomchom.jpg",
+      "rating": 4.9
+    },
+    {
+      "id": 15,
+      "name": "Watermelon Shondesh",
+      "shortDescription": "Refreshing watermelon-flavored sweet.",
+      "description": "Indulge in the delightful fusion of flavors with our Watermelon Shondesh, a unique take on the traditional Bengali sweet. Crafted from fresh, wholesome ingredients, this treat is infused with the subtle sweetness and refreshing taste of watermelon.",
+      "price": 500.0,
+      "currency": "BDT",
+      "inStock": true,
+      "category": "Fusion",
+      "image": "watermelon-shondesh.jpg",
+      "rating": 4.4
+    }
+  ],
+  "meta": {
+    "totalItems": 15,
+    "lastUpdated": "2024-03-30",
+    "currency": "BDT (Bangladeshi Taka)"
+  }
+}
